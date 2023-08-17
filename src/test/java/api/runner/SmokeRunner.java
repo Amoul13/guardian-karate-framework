@@ -9,7 +9,7 @@ public class SmokeRunner {
 		//address for our feature files. 
 		//And tags 
 		return Karate.run("classpath:features")
-				.tags("@Smoke");
+				.tags("@Random");
 	}
 
 }
