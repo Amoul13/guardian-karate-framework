@@ -1,3 +1,4 @@
+@Random
 Feature: End to End Test
 
   Background: 
