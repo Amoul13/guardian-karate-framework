@@ -24,3 +24,4 @@ Feature: Delete Account functionality
   	Then status 404
   	And print response
   	And assert response.errorMessage == "Account with id " + createdAccountId + " not exist"
+  	
