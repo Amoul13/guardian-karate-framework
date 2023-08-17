@@ -1,4 +1,6 @@
-@Random
+
+@Regression
+
 Feature: End to End Test
 
   Background: 
