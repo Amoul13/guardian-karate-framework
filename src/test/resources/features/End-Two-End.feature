@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 @Regression
+=======
+
+@Regression
+
+>>>>>>> c646d1796b01a32552c3ab99e6a8d5858403606b
 Feature: End to End Test
 
   Background: 
